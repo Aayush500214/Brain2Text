@@ -9,7 +9,7 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
-[**Explore the Demo**](#-getting-started) • [**Architecture**](#-how-it-works) • [**Dataset**](#-dataset--demo-data) • [**Documentation**](./brain2Text%20Merged.pdf)
+[**Explore the Demo**](#-getting-started) • [**Architecture**](#-how-it-works) • [**Dataset**](#-dataset--demo-data) • [**Documentation**](./brain2Text%20Merged.pdf) • [**Slides**](./Brain2Text.pptx)
 
 </div>
 
@@ -108,5 +108,6 @@ For detailed information on handling raw `.hdf5` files and converting them, see 
 
 <div align="center">
   <p>Read the full research paper and documentation in <a href="./brain2Text%20Merged.pdf"><b>brain2Text Merged.pdf</b></a></p>
+  <p>View the project presentation slides in <a href="./Brain2Text.pptx"><b>Brain2Text.pptx</b></a></p>
   <p>Built with ❤️ for Brain-to-Text '25</p>
 </div>
