@@ -53,6 +53,7 @@ graph LR
 | **Decoder** | CTC Greedy Decode + Word-Frequency Ranked CMU Dict |
 | **Inference Latency** | ~40–70 ms on standard CPU |
 | **Best PER** | 95.03% (Training data) |
+| **Dataset** | Kaggle Brain-to-Text 2025 Competition (t15) |
 
 ---
 
@@ -90,7 +91,7 @@ npm run dev
 
 ## 📊 Dataset & Demo Data
 
-The model expects `.npy` files containing matrices of shape `[T, 512]`. For demonstration purposes, we have included pre-configured trial files in the `demo_data/` directory.
+The model was trained on the **Kaggle Brain-to-Text 2025 Competition (t15)** dataset. It expects `.npy` files containing matrices of shape `[T, 512]`. For demonstration purposes, we have included pre-configured trial files in the `demo_data/` directory.
 
 ### 🎭 Presentation "Demo Mode"
 If the backend is offline, the frontend includes a **DEMO MODE**. This mode runs purely in the browser and simulates real API responses using pre-baked phoneme outputs from the competition dataset.
