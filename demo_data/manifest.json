@@ -1,0 +1,42 @@
+[
+  {
+    "file": "trial_01_open_the_door.npy",
+    "phonemes": "AY |",
+    "text": "I."
+  },
+  {
+    "file": "trial_02_water_bottle.npy",
+    "phonemes": "AY |",
+    "text": "I."
+  },
+  {
+    "file": "trial_03_hello_world.npy",
+    "phonemes": "AY |",
+    "text": "I."
+  },
+  {
+    "file": "trial_04_good_morning.npy",
+    "phonemes": "AY |",
+    "text": "I."
+  },
+  {
+    "file": "trial_05_thank_you.npy",
+    "phonemes": "AY |",
+    "text": "I."
+  },
+  {
+    "file": "trial_06_how_are_you.npy",
+    "phonemes": "AY |",
+    "text": "I."
+  },
+  {
+    "file": "trial_07_i_want_water.npy",
+    "phonemes": "AY |",
+    "text": "I."
+  },
+  {
+    "file": "trial_08_turn_off_light.npy",
+    "phonemes": "AY |",
+    "text": "I."
+  }
+]
